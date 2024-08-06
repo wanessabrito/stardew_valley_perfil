@@ -1,4 +1,3 @@
-# stardew_valley_perfil
 # Perfil do Stardew Valley
 
 ## Sobre o Projeto
@@ -18,6 +17,7 @@ Sou uma grande fã de Stardew Valley e, como estudante de Análise e Desenvolvim
 
 - HTML
 - CSS
+## imagem do site...
 ![image](https://github.com/user-attachments/assets/98bc5327-e13a-496c-8820-5879f44d1b71)
 
    
