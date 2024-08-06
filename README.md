@@ -1,0 +1,1 @@
+# stardew_valley_perfil
